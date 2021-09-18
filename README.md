@@ -79,7 +79,7 @@
    <details>
    <summary> 如何随意修改README文件？</summary>
    
-   1.进入你的仓库并进入code界面,点击笔字的按钮进入编写
+   1.进入你的仓库并进入code界面,点击笔字的按钮进入编写哦哦哦
    ![2D6731A3F5A39D89D91B4F201F8C0B70.jpg](https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3647386614.jpg)<br><br><br>
    2.在代码框随意编写或删减以达到改变代码的效果，随后点击提交commit，当然如果可以让说明书更精美欢迎来pull
    ![E0F2D41544BE07971A596488E7A72EAA.jpg](https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3472948209.jpg)
